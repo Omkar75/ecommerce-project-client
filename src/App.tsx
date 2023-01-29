@@ -1,5 +1,5 @@
 import React, { Children } from 'react';
-import './App.css';
+import './App.scss';
 import {
   createBrowserRouter,
   RouterProvider,
