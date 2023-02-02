@@ -103,8 +103,12 @@
         }
       }
   
-      hr{
-        border: 1px solid rgb(238, 237, 237);
+      .line{
+        align-self: flex-start;
+        height: 0.5px;
+        width: 80%;
+        border: 1px solid gray;
+
       }
   
     }
